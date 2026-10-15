@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="OOPlabs/OOPlabs.vcxproj" Id="0759bbb2-28c1-4996-b1fa-5a91fd71d85f" />
+</Solution>
